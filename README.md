@@ -1,2 +1,5 @@
 # CalculadoraTesteDeSoftware
-Projeto da matéria teste de software. 
+
+# Como Usar ❓
+
+- 
