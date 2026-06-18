@@ -1,0 +1,5 @@
+# CalculadoraTesteDeSoftware
+
+# Como Usar ❓
+
+- 
